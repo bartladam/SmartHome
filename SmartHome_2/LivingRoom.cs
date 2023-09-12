@@ -6,7 +6,18 @@ using System.Threading.Tasks;
 
 namespace SmartHome_2
 {
-    internal class LivingRoom
+    internal class LivingRoom:Room
     {
+        public LivingRoom(string nameRoom, int sizeRoom, params Appliances[] appliances) : base(nameRoom, sizeRoom, appliances)
+        {
+
+        }
+        /// <summary>
+        /// Remotly control appliance
+        /// </summary>
+        /// <param name="appliances"></param>
+        /// <param name="turnOn"></param>
+        /// <returns></returns>
+        public bool TurnOnAppliance(Appliances appliances, bool turnOn) => appliances.StartAppliance(turnOn);
     }
 }
