@@ -1,4 +1,4 @@
-﻿using SmartHome_2;
+﻿using SmartHome;
 
 MobilePhone mobile = new MobilePhone("AdamPhone", 58885544);
 House house = new House(
