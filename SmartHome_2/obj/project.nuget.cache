@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zGECL332AR0neClhAQVLBjtmHbM0eDIHP+iBJzqiGFKDhdqtyEMsOToXgcgokHRgjpg3rVgp+TmqQHIJMYAidQ==",
+  "dgSpecHash": "Bc+fGmQebEvQQzbnpdqrBAIkgWzs4Hfs/95ChUqTaH2eWVZo66QaRc7/de5MGjz3V5mXkpWQS9uG5um8c3eKNQ==",
   "success": true,
-  "projectFilePath": "D:\\Visual Studio Projects\\SmartHome_2\\SmartHome_2\\SmartHome_2.csproj",
+  "projectFilePath": "D:\\Visual Studio Projects\\SmartHome\\SmartHome_2\\SmartHome.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

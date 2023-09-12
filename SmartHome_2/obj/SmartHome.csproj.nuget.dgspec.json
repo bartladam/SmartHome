@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Projects\\SmartHome\\SmartHome_2\\SmartHome_2.csproj": {}
+    "D:\\Visual Studio Projects\\SmartHome\\SmartHome_2\\SmartHome.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Projects\\SmartHome\\SmartHome_2\\SmartHome_2.csproj": {
+    "D:\\Visual Studio Projects\\SmartHome\\SmartHome_2\\SmartHome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Projects\\SmartHome\\SmartHome_2\\SmartHome_2.csproj",
-        "projectName": "SmartHome_2",
-        "projectPath": "D:\\Visual Studio Projects\\SmartHome\\SmartHome_2\\SmartHome_2.csproj",
+        "projectUniqueName": "D:\\Visual Studio Projects\\SmartHome\\SmartHome_2\\SmartHome.csproj",
+        "projectName": "SmartHome",
+        "projectPath": "D:\\Visual Studio Projects\\SmartHome\\SmartHome_2\\SmartHome.csproj",
         "packagesPath": "C:\\Users\\adamb\\.nuget\\packages\\",
         "outputPath": "D:\\Visual Studio Projects\\SmartHome\\SmartHome_2\\obj\\",
         "projectStyle": "PackageReference",

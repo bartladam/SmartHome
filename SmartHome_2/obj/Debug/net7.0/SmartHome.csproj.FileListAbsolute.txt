@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\SmartHome\SmartHome_2\bin\Debug\net7.0\SmartHome.exe
+D:\Visual Studio Projects\SmartHome\SmartHome_2\bin\Debug\net7.0\SmartHome.deps.json
+D:\Visual Studio Projects\SmartHome\SmartHome_2\bin\Debug\net7.0\SmartHome.runtimeconfig.json
+D:\Visual Studio Projects\SmartHome\SmartHome_2\bin\Debug\net7.0\SmartHome.dll
+D:\Visual Studio Projects\SmartHome\SmartHome_2\bin\Debug\net7.0\SmartHome.pdb
+D:\Visual Studio Projects\SmartHome\SmartHome_2\obj\Debug\net7.0\SmartHome.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\SmartHome\SmartHome_2\obj\Debug\net7.0\SmartHome.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\SmartHome\SmartHome_2\obj\Debug\net7.0\SmartHome.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\SmartHome\SmartHome_2\obj\Debug\net7.0\SmartHome.AssemblyInfo.cs
+D:\Visual Studio Projects\SmartHome\SmartHome_2\obj\Debug\net7.0\SmartHome.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\SmartHome\SmartHome_2\obj\Debug\net7.0\SmartHome.dll
+D:\Visual Studio Projects\SmartHome\SmartHome_2\obj\Debug\net7.0\refint\SmartHome.dll
+D:\Visual Studio Projects\SmartHome\SmartHome_2\obj\Debug\net7.0\SmartHome.pdb
+D:\Visual Studio Projects\SmartHome\SmartHome_2\obj\Debug\net7.0\SmartHome.genruntimeconfig.cache
+D:\Visual Studio Projects\SmartHome\SmartHome_2\obj\Debug\net7.0\ref\SmartHome.dll
